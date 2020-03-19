@@ -627,12 +627,14 @@ input, select, textarea {
 		justify-content: space-between;
 		position: relative;
 		z-index: 10002;
-	}
+		background:rgb(0,0,0,0.65);
+		}
 
 		#footer > section:first-child {
 			text-align: left;
 			max-width: 36em;
 			padding-right: 2em;
+
 		}
 
 		#footer > section:last-child {
