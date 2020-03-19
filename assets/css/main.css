@@ -598,10 +598,7 @@ input, select, textarea {
 							font-size: 1em;
 						}
 
-					#main .item.thumb h2 {
-						display: none;
-					}
-
+					
 		}
 
 		@media screen and (max-width: 480px) {
@@ -609,6 +606,7 @@ input, select, textarea {
 			#main .item {
 				height: 10em;
 			}
+			h2 { text-align: center;color: black }
 
 		}
 
